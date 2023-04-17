@@ -1,3 +1,10 @@
+"""
+This program identifies symbols duplicated in two .so files.
+
+Author: Hwiil Jeong
+Date: April 18, 2023
+"""
+
 from enum import Enum
 import subprocess 
 import sys
